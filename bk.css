@@ -1,0 +1,16 @@
+h1{
+   color:blue;
+   font-family:arial;
+   font-size:50px;
+   background-color:red;
+}
+
+p{
+	background-color:yellow;
+	text-align:center;
+	font-family:jokerman;
+	text-shadow:2px 3px 5px;
+	text-decoration:bold;
+	border:10px solid red;
+	font-size:50px;
+}
